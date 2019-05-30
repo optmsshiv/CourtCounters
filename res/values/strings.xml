@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Court Counters</string>
+    <string name="team">Team A</string>
+    <string name="Teams">Team B</string>
+    <string name="Throw1">Free Throw</string>
+    <string name="Throw">Free Throw</string>
+    <string name="reset">RESET</string>
+    <string name="app_name1">Court Counters</string>
+    <string name="app_name2">Court Counters</string>
+    <string name="app_name3">Court Counters</string>
+    <string name="todo">TODO</string>
+</resources>
